@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.ashtonncooper.audiobookprogresscalc",
+    "sha256_cert_fingerprints": ["48:79:6E:4E:3D:D3:5B:A5:81:2B:EE:24:3C:96:EE:FA:CA:EB:3D:C3:66:05:4B:DD:C4:E6:B0:04:64:65:FB:63"]
+  }
+}]
